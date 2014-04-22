@@ -65,3 +65,5 @@ class MasonryException extends Exception {
 	const ERROR_SHOULD_BE_ARRAY = 'Behavior parameter need to be an array element.';
 	const ERROR_UNSUPPORTED_BEHAVIOR = 'Behavior key is not supported.';
 }
+
+
