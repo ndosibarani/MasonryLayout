@@ -8,9 +8,6 @@
  */
 class Masonry {
 
-	// do we handle the whole page?
-	public $awhole = false;
-
 	private static $behavior = array('endless' => false, 
 									 'isotope' => false);
 
